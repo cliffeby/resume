@@ -1,3 +1,3 @@
 resume
 ======
-Nice REadme
+Nice Readme
