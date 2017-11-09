@@ -6,17 +6,17 @@ Software Developer on the MEAN stack
 
 ### Qualifications
 
-Avocation for development throughout my career. Familiarity with Javascript/C# and Webstorm/Visual Studio IDEs Frequent attendance at Cap Area .Net, its Silverlight user group and the former RockNug user group. Regular listener to . Net Rocks, Yet Another Podcast, and Hanselminutes.
+Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack and Webstorm IDE Frequent attendance at Nova Mean, Cap Area .Net, its Silverlight user group and the former RockNug user group. Regular listener to . Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
 
 ### Previous Experience
 
-### President, Americas Transportation Company
+### President, Americas Transportation Company - retired 2016
 
 <section>
 
 #### Years of Experience
 
-42 (5 with Parsons Brinckerhoff; 37 with others)</section>
+42 (8 with Parsons Brinckerhoff; 37 with others)</section>
 
 #### Education
 
@@ -58,6 +58,6 @@ Earlier in his career, Mr. Eby was director of finance and statistics for the As
 
 #### Projects
 
-*   Github: cliffeby/mean
+*   Github: cliffeby/RochV001
 
 </section>
