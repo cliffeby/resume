@@ -39,7 +39,8 @@ Moynihan Station (New York City) Development Corporation, Union Station (Washing
 
 #### Professional Registrations
 
-Expired registered civil enginer in Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329), among others(!!@@@##$)</section>
+Expired registered civil enginer in Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329), among others
+</section>
 
 <section>
 
