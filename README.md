@@ -4,7 +4,7 @@ CLIFFORD EBY, P.E.
 
 Software Developer on the MEAN stack
 
-Maker Raspberry Pi and Pytthon and OpenCV development
+Maker Raspberry Pi - Pytthon and OpenCV development
 
 ### Qualifications
 
