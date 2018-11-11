@@ -8,7 +8,7 @@ Maker Raspberry Pi - Pytthon and OpenCV development
 
 ### Qualifications
 
-Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack and Webstorm IDE Frequent attendance at Nova Mean, Cap Area .Net, its Silverlight user group and the former RockNug user group. Regular listener to . Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
+Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack PowerBI and VS Code. Frequent attendance at Nova Mean, Cap Area .Net, its former Silverlight user group and the former RockNug user group. Regular listener to .Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
 
 ### Previous Experience
 
@@ -27,6 +27,7 @@ B.S., Civil Engineering, Lehigh University, 1973; M.B.A., Finance and Investment
 *   Dartmouth College, Tuck Executive Program, 1998
 *   Montgomery College, Javascript 2011
 *   Montgomery College, Advanced Javascript (jQuery)
+*   Variuos Pluralsight, Udemy and LinkedIn courses
 
 <section>
 
@@ -38,7 +39,7 @@ Moynihan Station (New York City) Development Corporation, Union Station (Washing
 
 #### Professional Registrations
 
-Expired registerd civil enginer in Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329), among others(!!@@@##$)</section>
+Expired registered civil enginer in Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329), among others(!!@@@##$)</section>
 
 <section>
 
@@ -61,6 +62,6 @@ Earlier in his career, Mr. Eby was director of finance and statistics for the As
 #### Projects
 
 *   Express REST API Testing - https://cliffeby.github.io/RochV001a/
-*   Duckpins https://cliffeby.github.io/DuckpinV001/
+*   Duckpins - https://cliffeby.github.io/DuckpinV001/
 
 </section>
