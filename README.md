@@ -4,13 +4,15 @@ CLIFFORD EBY, P.E.
 
 Software Developer on the MEAN stack
 
+Maker Raspberry Pi and Pytthon and OpenCV development
+
 ### Qualifications
 
 Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack and Webstorm IDE Frequent attendance at Nova Mean, Cap Area .Net, its Silverlight user group and the former RockNug user group. Regular listener to . Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
 
 ### Previous Experience
 
-### President, Americas Transportation Company - retired 2016
+### President, Parsons Brinckerhoff - retired 2016
 
 <section>
 
@@ -36,7 +38,7 @@ Moynihan Station (New York City) Development Corporation, Union Station (Washing
 
 #### Professional Registrations
 
-Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329), New York (!!@@@##$)</section>
+Expired registerd civil enginer in Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329), among others(!!@@@##$)</section>
 
 <section>
 
@@ -44,7 +46,7 @@ Maryland, 1977 (10921); Virginia, 1977 (0095490); District of Columbia (PE7329),
 
 Clifford Eby offers specific expertise in rail safety, finance and economic regulatory practices, transportation policy, and rail infrastructure program design. His perspective is as diverse as his experience; he has held executive and engineering positions and has worked in both the public and private sectors.
 
-In 2012, Mr. Eby was named president of the America’s Transportation operating company, with responsibility for managing a business unit with $1 billion in annual revenue and 4,000 employees located in 70 offices throughout the U.S. and Canada. On a national basis, he is responsible for all planning, design, strategic consulting and construction services. In this role, he has management oversight for over 2,700 transportation and infrastructure projects across the Americas. He was previously senior vice president in charge of Parsons Brinckerhoff’s Technical Excellence Centers and supported the firm’s strategic efforts in the rail and infrastructure markets, particularly high-speed rail./p>
+In 2012, Mr. Eby was named president of the Parsons Brinckerhoff's ((now WSP USA) Transportation operating company, with responsibility for managing a business unit with $1 billion in annual revenue and 4,000 employees located in 70 offices throughout the U.S. and Canada. On a national basis, he is responsible for all planning, design, strategic consulting and construction services. In this role, he has management oversight for over 2,700 transportation and infrastructure projects across the Americas. He was previously senior vice president in charge of Parsons Brinckerhoff’s Technical Excellence Centers and supported the firm’s strategic efforts in the rail and infrastructure markets, particularly high-speed rail./p>
 
 From 1973 to 1980 and then again from 1985 through 2004, he was with an international transportation and construction management firm where he held several executive management positions covering such areas as finance, business development, operations, strategic planning and technology.
 
@@ -58,6 +60,7 @@ Earlier in his career, Mr. Eby was director of finance and statistics for the As
 
 #### Projects
 
-*   Github: cliffeby/RochV001
+*   Express REST API Testing - https://cliffeby.github.io/RochV001a/
+*   Duckpins https://cliffeby.github.io/DuckpinV001/
 
 </section>
