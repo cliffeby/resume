@@ -1,14 +1,14 @@
-CLIFFORD EBY, P.E.
+CLIFFORD EBY
 
 ### Interests and Objective
 
 Software Developer on the MEAN stack
 
-Maker Raspberry Pi - Pytthon and OpenCV development
+Maker Raspberry Pi - Python and OpenCV development
 
 ### Qualifications
 
-Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack PowerBI and VS Code. Frequent attendance at Nova Mean, Cap Area .Net, its former Silverlight user group and the former RockNug user group. Regular listener to .Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
+Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack, PowerBI and VS Code. Frequent attendance at Nova Mean, Cap Area .Net, its former Silverlight user group and the former RockNug user group. Regular listener to .Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
 
 ### Previous Experience
 
