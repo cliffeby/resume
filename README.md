@@ -8,7 +8,7 @@ Maker Raspberry Pi - Python and OpenCV development
 
 ### Qualifications
 
-Avocation for development throughout my career. Familiarity with Javascript, MEAN Stack, PowerBI and VS Code. Frequent attendance at Nova Mean, Cap Area .Net, its former Silverlight user group and the former RockNug user group. Regular listener to .Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
+Avocation for development throughout my career. Familiarity with Javascript/Angular, Python, MEAN Stack, PowerBI Azure and VS Code. Frequent attendance at Nova Mean, Cap Area .Net, its former Silverlight user group and the former RockNug user group. Regular listener to .Net Rocks, Adventures in Angular, Yet Another Podcast, and Hanselminutes.
 
 ### Previous Experience
 
@@ -27,7 +27,7 @@ B.S., Civil Engineering, Lehigh University, 1973; M.B.A., Finance and Investment
 *   Dartmouth College, Tuck Executive Program, 1998
 *   Montgomery College, Javascript 2011
 *   Montgomery College, Advanced Javascript (jQuery)
-*   Variuos Pluralsight, Udemy and LinkedIn courses
+*   Various Pluralsight, Udemy and LinkedIn courses
 
 <section>
 
